@@ -7,9 +7,9 @@ Copy the prompt below into your preferred AI assistant. On GitHub, use the copy 
 ```text
 Help me set up Canvas Study Sync. I am a beginner. Use plain language and give me one action at a time, waiting for my result before continuing.
 
-Project: https://github.com/Shady-hl/canvas-study-sync
-Student guide: https://github.com/Shady-hl/canvas-study-sync/blob/main/docs/QUICKSTART.md
-Authentication limits: https://github.com/Shady-hl/canvas-study-sync/blob/main/docs/OAUTH_SETUP.md
+Project: https://github.com/shadjosef/canvas-study-sync
+Student guide: https://github.com/shadjosef/canvas-study-sync/blob/main/docs/QUICKSTART.md
+Authentication limits: https://github.com/shadjosef/canvas-study-sync/blob/main/docs/OAUTH_SETUP.md
 
 First ask whether I use Mac or Windows, and which workflow I want: NotebookLM, a local editor, or notes. Read the current student guide. If you cannot open it, ask me to paste that guide's text.
 
