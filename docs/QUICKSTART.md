@@ -9,7 +9,7 @@ Once Python and the source download are set up, the usual path is **open the lau
 ## 1. Download and open
 
 1. Install **Python 3.11 or newer** from [python.org](https://www.python.org/downloads/) if it is not already installed. **Python 3.14 works.** On Windows, include the Python launcher when offered. You do not need Anaconda or an exact Python 3.9 installation.
-2. [Download the source ZIP](https://github.com/Shady-hl/canvas-study-sync/archive/refs/heads/main.zip) and extract it. Keep the source separate from course materials.
+2. [Download the source ZIP](https://github.com/shadjosef/canvas-study-sync/archive/refs/heads/main.zip) and extract it. Keep the source separate from course materials.
 3. On **Mac**, open `OPEN_RESYNC.command`. On **Windows**, open `OPEN_RESYNC.cmd`. The launcher opens the study window in your browser. This source download is not a signed or notarized application installer.
 4. Choose one of the two paths below. PDF and timezone support are prepared automatically when needed; a first build can take longer.
 
