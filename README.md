@@ -4,7 +4,7 @@
 
 Keep a local course archive, prepare subject packs for NotebookLM or your editor, and see where each extract came from. Files are processed locally and saved in your chosen study folder; the app does not send them to an AI service.
 
-[**Start here**](docs/QUICKSTART.md) · [Set up with an AI assistant](AI_SETUP.md) · [Download source ZIP](https://github.com/Shady-hl/canvas-study-sync/archive/refs/heads/main.zip)
+[**Start here**](docs/QUICKSTART.md) · [Set up with an AI assistant](AI_SETUP.md) · [Download source ZIP](https://github.com/shadjosef/canvas-study-sync/archive/refs/heads/main.zip)
 
 Experimental beta · Python 3.11+ · macOS and Windows · noncommercial source available
 
@@ -89,7 +89,7 @@ python3 -B tools/check_release.py
 
 Use `python` on Windows. Tests use synthetic data and mocked service responses. CI covers Python 3.11 and 3.14 on Mac, Windows and Linux; that does not establish compatibility with every institution.
 
-Useful contributions include clearer setup instructions, extraction improvements, and reproducible import bugs. [Report an issue](https://github.com/Shady-hl/canvas-study-sync/issues/new/choose) with your operating system and a redacted error. Never attach tokens or private course exports. See [CONTRIBUTING.md](CONTRIBUTING.md).
+Useful contributions include clearer setup instructions, extraction improvements, and reproducible import bugs. [Report an issue](https://github.com/shadjosef/canvas-study-sync/issues/new/choose) with your operating system and a redacted error. Never attach tokens or private course exports. See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## License
 
