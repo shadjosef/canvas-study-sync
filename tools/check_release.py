@@ -41,6 +41,10 @@ def main():
         if path.stat().st_size > 1_000_000:
             errors.append(f'{rel}: unexpected large source file')
             continue
+        if rel.parts[:2] == ('docs', 'images') and path.suffix.lower() == '.png' and path.stat().st_size <= 500_000:
+            if not path.read_bytes().startswith(b'\x89PNG\r\n\x1a\n'):
+                errors.append(f'{rel}: invalid PNG documentation image')
+            continue
         try:
             text = path.read_text(encoding='utf-8')
         except UnicodeError:
